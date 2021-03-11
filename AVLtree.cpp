@@ -4,6 +4,11 @@
 using namespace std;
 #define SEPARATOR "#<ab@17943918#@>#"
 
+int git(int a)
+{
+    return a;
+}
+
 enum BalanceValue
 {
     LH = -1,
